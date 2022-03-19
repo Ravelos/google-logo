@@ -1,0 +1,12 @@
+body{
+    background-color: #737373;
+}
+#logo{
+    position: relative;
+    margin: 50px auto;
+    width: 300px;
+    height: 300px;
+    border: 5px solid;
+    border-radius: 50%;
+    overflow: hidden;    
+}
