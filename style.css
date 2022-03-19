@@ -26,3 +26,11 @@ body{
     border-radius: 50%;
     z-index: 4;
 }
+
+.red{
+    width: 78%;
+    height: 42%;
+    position: absolute;
+    background-color: #f44336;
+    transform: rotateZ(-40deg);
+}
