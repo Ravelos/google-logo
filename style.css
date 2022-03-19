@@ -56,3 +56,15 @@ body{
     z-index: 2;
 }
 
+.blue{
+    width: 35%;
+    height: 32%;
+    position: absolute;
+    top: 50%;
+    background-color: #4285f4;
+    right: 0;
+    z-index: 2;
+    transform: rotateZ(45deg);
+
+
+}
