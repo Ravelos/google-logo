@@ -1,6 +1,4 @@
-body{
-    background-color: #737373;
-}
+
 #logo{
     position: relative;
     margin: 50px auto;
@@ -65,6 +63,16 @@ body{
     right: 0;
     z-index: 2;
     transform: rotateZ(45deg);
+}
 
-
+.gline{
+    width: 50%;
+    height: 20%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: #4285f4;
+    z-index: 5;
 }
